@@ -1,0 +1,455 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{32}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{#1}\fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[\protect\citeauthoryear{Antonio-Javier~Gallego and
+  Fisher}{Antonio-Javier~Gallego and Fisher}{IEEE}]%
+        {19}
+\bibfield{author}{\bibinfo{person}{Jorge Calvo-Zaragoza Antonio-Javier~Gallego}
+  {and} \bibinfo{person}{Robert~B. Fisher}.} \bibinfo{year}{2020
+  IEEE}\natexlab{}.
+\newblock \showarticletitle{Incremental Unsupervised Domain-Adversarial
+  Training of Neural Networks}.
+\newblock  (\bibinfo{year}{2020 IEEE}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Bethu, Neelakantappa, Goud, Krishna, and
+  M}{Bethu et~al\mbox{.}}{2023}]%
+        {27}
+\bibfield{author}{\bibinfo{person}{Srikanth Bethu}, \bibinfo{person}{M.
+  Neelakantappa}, \bibinfo{person}{A.~Swami Goud}, \bibinfo{person}{B.~Hari
+  Krishna}, {and} \bibinfo{person}{P.~N. V. Syamala~Rao M}.}
+  \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{An Approach for Person Detection along with Object
+  Using Machine Learning}.
+\newblock \bibinfo{journal}{\emph{Journal of Advances in Information
+  Technology}} \bibinfo{volume}{14}, \bibinfo{number}{3}
+  (\bibinfo{year}{2023}), \bibinfo{pages}{411--417}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Chen, Yu, De~Mello, Liu, Alvarez, Wang, and
+  Anandkumar}{Chen et~al\mbox{.}}{2021}]%
+        {24}
+\bibfield{author}{\bibinfo{person}{Wuyang Chen}, \bibinfo{person}{Zhiding Yu},
+  \bibinfo{person}{Shalini De~Mello}, \bibinfo{person}{Sifei Liu},
+  \bibinfo{person}{Jose~M Alvarez}, \bibinfo{person}{Zhangyang Wang}, {and}
+  \bibinfo{person}{Anima Anandkumar}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Contrastive syn-to-real generalization}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2104.02290}}
+  (\bibinfo{year}{2021}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Dalal and Triggs}{Dalal and Triggs}{2005}]%
+        {5}
+\bibfield{author}{\bibinfo{person}{Navneet Dalal} {and} \bibinfo{person}{Bill
+  Triggs}.} \bibinfo{year}{2005}\natexlab{}.
+\newblock \showarticletitle{Histograms of oriented gradients for human
+  detection}.
+\newblock   \bibinfo{volume}{1} (\bibinfo{year}{2005}),
+  \bibinfo{pages}{886--893}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Deng}{Deng}{2009}]%
+        {15}
+\bibfield{author}{\bibinfo{person}{Jia Deng}.} \bibinfo{year}{2009}\natexlab{}.
+\newblock \showarticletitle{A large-scale hierarchical image database}.
+\newblock \bibinfo{journal}{\emph{Proc. of IEEE Computer Vision and Pattern
+  Recognition, 2009}} (\bibinfo{year}{2009}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Di~Capua, Ciaramella, and De~Prisco}{Di~Capua
+  et~al\mbox{.}}{2023}]%
+        {22}
+\bibfield{author}{\bibinfo{person}{M Di~Capua}, \bibinfo{person}{A Ciaramella},
+  {and} \bibinfo{person}{A De~Prisco}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Machine learning and computer vision for the
+  automation of processes in advanced logistics: The integrated logistic
+  platform (ILP) 4.0}.
+\newblock \bibinfo{journal}{\emph{Procedia Computer Science}}
+  \bibinfo{volume}{217} (\bibinfo{year}{2023}), \bibinfo{pages}{326--338}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Ganin, Ustinova, Ajakan, and Germain}{Ganin
+  et~al\mbox{.}}{2016}]%
+        {4}
+\bibfield{author}{\bibinfo{person}{Yaroslav Ganin}, \bibinfo{person}{Evgeniya
+  Ustinova}, \bibinfo{person}{Hana Ajakan}, {and} \bibinfo{person}{Germain}.}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Domain-adversarial training of neural networks}.
+\newblock \bibinfo{journal}{\emph{The journal of machine learning research}}
+  \bibinfo{volume}{17}, \bibinfo{number}{1} (\bibinfo{year}{2016}),
+  \bibinfo{pages}{2096--2030}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{He, Zhang, Ren, and Sun}{He
+  et~al\mbox{.}}{2016}]%
+        {6}
+\bibfield{author}{\bibinfo{person}{Kaiming He}, \bibinfo{person}{Xiangyu
+  Zhang}, \bibinfo{person}{Shaoqing Ren}, {and} \bibinfo{person}{Jian Sun}.}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Deep residual learning for image recognition}.
+\newblock  (\bibinfo{year}{2016}), \bibinfo{pages}{770--778}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Hoang, Chen, and Nguyen}{Hoang
+  et~al\mbox{.}}{2016}]%
+        {hoang2016sub}
+\bibfield{author}{\bibinfo{person}{Dinh-Cuong Hoang},
+  \bibinfo{person}{Liang-Chia Chen}, {and} \bibinfo{person}{Thanh-Hung
+  Nguyen}.} \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Sub-OBB based object recognition and localization
+  algorithm using range images}.
+\newblock \bibinfo{journal}{\emph{Measurement Science and Technology}}
+  \bibinfo{volume}{28}, \bibinfo{number}{2} (\bibinfo{year}{2016}),
+  \bibinfo{pages}{025401}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Hoang, Lilienthal, and Stoyanov}{Hoang
+  et~al\mbox{.}}{2020}]%
+        {hoang2020object}
+\bibfield{author}{\bibinfo{person}{Dinh-Cuong Hoang}, \bibinfo{person}{Achim~J
+  Lilienthal}, {and} \bibinfo{person}{Todor Stoyanov}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Object-RPE: Dense 3D reconstruction and pose
+  estimation with convolutional neural networks}.
+\newblock \bibinfo{journal}{\emph{Robotics and Autonomous Systems}}
+  \bibinfo{volume}{133} (\bibinfo{year}{2020}), \bibinfo{pages}{103632}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Hoang, Nguyen, Vu, Vu, Nguyen, Nguyen, Tran,
+  Phan, and Ho}{Hoang et~al\mbox{.}}{2023}]%
+        {hoang2023grasp}
+\bibfield{author}{\bibinfo{person}{Dinh-Cuong Hoang}, \bibinfo{person}{Anh-Nhat
+  Nguyen}, \bibinfo{person}{Van-Duc Vu}, \bibinfo{person}{Duy-Quang Vu},
+  \bibinfo{person}{Van-Thiep Nguyen}, \bibinfo{person}{Thu-Uyen Nguyen},
+  \bibinfo{person}{Cong-Trinh Tran}, \bibinfo{person}{Khanh-Toan Phan}, {and}
+  \bibinfo{person}{Ngoc-Trung Ho}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Grasp Configuration Synthesis from 3D Point Clouds
+  with Attention Mechanism}.
+\newblock \bibinfo{journal}{\emph{Journal of Intelligent \& Robotic Systems}}
+  \bibinfo{volume}{109}, \bibinfo{number}{3} (\bibinfo{year}{2023}),
+  \bibinfo{pages}{71}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Hoang, Stork, and Stoyanov}{Hoang
+  et~al\mbox{.}}{2022a}]%
+        {hoang2022context}
+\bibfield{author}{\bibinfo{person}{Dinh-Cuong Hoang},
+  \bibinfo{person}{Johannes~A Stork}, {and} \bibinfo{person}{Todor Stoyanov}.}
+  \bibinfo{year}{2022}\natexlab{a}.
+\newblock \showarticletitle{Context-aware grasp generation in cluttered
+  scenes}. In \bibinfo{booktitle}{\emph{2022 International Conference on
+  Robotics and Automation (ICRA)}}. IEEE, \bibinfo{pages}{1492--1498}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Hoang, Stork, and Stoyanov}{Hoang
+  et~al\mbox{.}}{2022b}]%
+        {hoang2022voting}
+\bibfield{author}{\bibinfo{person}{Dinh-Cuong Hoang},
+  \bibinfo{person}{Johannes~A Stork}, {and} \bibinfo{person}{Todor Stoyanov}.}
+  \bibinfo{year}{2022}\natexlab{b}.
+\newblock \showarticletitle{Voting and Attention-Based Pose Relation Learning
+  for Object Pose Estimation From 3D Point Clouds}.
+\newblock \bibinfo{journal}{\emph{IEEE Robotics and Automation Letters}}
+  \bibinfo{volume}{7}, \bibinfo{number}{4} (\bibinfo{year}{2022}),
+  \bibinfo{pages}{8980--8987}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Hoang, Stoyanov, and Lilienthal}{Hoang
+  et~al\mbox{.}}{2019}]%
+        {hoang2019object}
+\bibfield{author}{\bibinfo{person}{Dinh-Cuong Hoang}, \bibinfo{person}{Todor
+  Stoyanov}, {and} \bibinfo{person}{Achim~J Lilienthal}.}
+  \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Object-rpe: Dense 3d reconstruction and pose
+  estimation with convolutional neural networks for warehouse robots}. In
+  \bibinfo{booktitle}{\emph{2019 European Conference on Mobile Robots (ECMR)}}.
+  IEEE, \bibinfo{pages}{1--6}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Jarir}{Jarir}{ CIC}]%
+        {16}
+\bibfield{author}{\bibinfo{person}{Anne Marie Amja; Abdel Obaid; Hafedh
+  Mili;~Zahi Jarir}.} \bibinfo{year}{2016", journal = {2016 IEEE 2nd
+  International Conference on Collaboration and Internet Computing
+  (CIC)},}\natexlab{}.
+\newblock \showarticletitle{Feature-Based Adaptation and Its Implementation}.
+\newblock  (\bibinfo{year}{2016", journal = {2016 IEEE 2nd International
+  Conference on Collaboration and Internet Computing (CIC)},}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Kaiming~He}{Kaiming~He}{2015}]%
+        {20}
+\bibfield{author}{\bibinfo{person}{Shaoqing Ren Jian~Sun Kaiming~He,
+  Xiangyu~Zhang}.} \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Deep Residual Learning for Image Recognition}.
+\newblock  (\bibinfo{year}{2015}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Krizhevsky, Sutskever, and Hinton}{Krizhevsky
+  et~al\mbox{.}}{2012}]%
+        {7}
+\bibfield{author}{\bibinfo{person}{Alex Krizhevsky}, \bibinfo{person}{Ilya
+  Sutskever}, {and} \bibinfo{person}{Geoffrey~E Hinton}.}
+  \bibinfo{year}{2012}\natexlab{}.
+\newblock \showarticletitle{Imagenet classification with deep convolutional
+  neural networks}.
+\newblock \bibinfo{journal}{\emph{Advances in neural information processing
+  systems}}  \bibinfo{volume}{25} (\bibinfo{year}{2012}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Machado, Silva, and Goldschmidt}{Machado
+  et~al\mbox{.}}{2021}]%
+        {25}
+\bibfield{author}{\bibinfo{person}{Gabriel~Resende Machado},
+  \bibinfo{person}{Eugenio Silva}, {and} \bibinfo{person}{Ronaldo~Ribeiro
+  Goldschmidt}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Adversarial machine learning in image
+  classification: A survey toward the defender’s perspective}.
+\newblock \bibinfo{journal}{\emph{ACM Computing Surveys (CSUR)}}
+  \bibinfo{volume}{55}, \bibinfo{number}{1} (\bibinfo{year}{2021}),
+  \bibinfo{pages}{1--38}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Mingsheng~Long}{Mingsheng~Long}{2015}]%
+        {18}
+\bibfield{author}{\bibinfo{person}{Jianmin Wang Michael I.~Jordan
+  Mingsheng~Long, Yue~Cao}.} \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Learning Transferable Features with Deep Adaptation
+  Networks}.
+\newblock  (\bibinfo{year}{2015}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Olugboja, Wang, and Sun}{Olugboja
+  et~al\mbox{.}}{2021}]%
+        {28}
+\bibfield{author}{\bibinfo{person}{Adedeji Olugboja}, \bibinfo{person}{Zenghui
+  Wang}, {and} \bibinfo{person}{Yanxia Sun}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Parallel Convolutional Neural Networks for Object
+  Detection}.
+\newblock \bibinfo{journal}{\emph{Journal of Advances in Information
+  Technology}} \bibinfo{volume}{12}, \bibinfo{number}{4}
+  (\bibinfo{date}{November} \bibinfo{year}{2021}), \bibinfo{pages}{279--286}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.12720/jait.12.4.279-286}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Palleschi, Gugliotta, Gabellieri, Hoang,
+  Stoyanov, Garabini, and Pallottino}{Palleschi et~al\mbox{.}}{2020}]%
+        {palleschi2020fully}
+\bibfield{author}{\bibinfo{person}{Alessandro Palleschi},
+  \bibinfo{person}{Marco Gugliotta}, \bibinfo{person}{Chiara Gabellieri},
+  \bibinfo{person}{Dinh-Cuong Hoang}, \bibinfo{person}{Todor Stoyanov},
+  \bibinfo{person}{Manolo Garabini}, {and} \bibinfo{person}{Lucia Pallottino}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Fully autonomous picking with a dual-arm platform
+  for intralogistics}. In \bibinfo{booktitle}{\emph{Proc. I-RIM Conf. I-RIM}}.
+  \bibinfo{pages}{109--111}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Quach, Quoc, Quynh, and Ngoc}{Quach
+  et~al\mbox{.}}{2023}]%
+        {26}
+\bibfield{author}{\bibinfo{person}{Luyl-Da Quach},
+  \bibinfo{person}{Khang~Nguyen Quoc}, \bibinfo{person}{Anh~Nguyen Quynh},
+  {and} \bibinfo{person}{Hoang~Tran Ngoc}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Evaluating the Effectiveness of YOLO Models in
+  Different Sized Object Detection and Feature-Based Classification of Small
+  Objects}.
+\newblock \bibinfo{journal}{\emph{Journal of Advances in Information
+  Technology}} \bibinfo{volume}{14}, \bibinfo{number}{5}
+  (\bibinfo{year}{2023}), \bibinfo{pages}{907--917}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Raj, Shobana, Pustokhina, Pustokhin, Gupta,
+  and Shankar}{Raj et~al\mbox{.}}{2020}]%
+        {23}
+\bibfield{author}{\bibinfo{person}{R~Joshua~Samuel Raj},
+  \bibinfo{person}{S~Jeya Shobana}, \bibinfo{person}{Irina~Valeryevna
+  Pustokhina}, \bibinfo{person}{Denis~Alexandrovich Pustokhin},
+  \bibinfo{person}{Deepak Gupta}, {and} \bibinfo{person}{KJIA Shankar}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Optimal feature selection-based medical image
+  classification using deep learning model in internet of medical things}.
+\newblock \bibinfo{journal}{\emph{IEEE Access}}  \bibinfo{volume}{8}
+  (\bibinfo{year}{2020}), \bibinfo{pages}{58006--58017}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Rutinowski, Youssef, Gouda, Reining, and
+  Roidl}{Rutinowski et~al\mbox{.}}{2022}]%
+        {21}
+\bibfield{author}{\bibinfo{person}{Jerome Rutinowski}, \bibinfo{person}{Hazem
+  Youssef}, \bibinfo{person}{Anas Gouda}, \bibinfo{person}{Christopher
+  Reining}, {and} \bibinfo{person}{Moritz Roidl}.}
+  \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{The Potential of Deep Learning based Computer
+  Vision in Warehousing Logistics}.
+\newblock \bibinfo{journal}{\emph{Logistics Journal: Proceedings}}
+  \bibinfo{volume}{2022}, \bibinfo{number}{18} (\bibinfo{year}{2022}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Shermeyer, Hossler, Van~Etten, Hogan, Lewis,
+  and Kim}{Shermeyer et~al\mbox{.}}{2021}]%
+        {2}
+\bibfield{author}{\bibinfo{person}{Jacob Shermeyer}, \bibinfo{person}{Thomas
+  Hossler}, \bibinfo{person}{Adam Van~Etten}, \bibinfo{person}{Daniel Hogan},
+  \bibinfo{person}{Ryan Lewis}, {and} \bibinfo{person}{Daeil Kim}.}
+  \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{RarePlanes: Synthetic Data Takes Flight}.
+\newblock  (\bibinfo{date}{January} \bibinfo{year}{2021}),
+  \bibinfo{pages}{207--217}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Simonyan and Zisserman}{Simonyan and
+  Zisserman}{2015}]%
+        {8}
+\bibfield{author}{\bibinfo{person}{Karen Simonyan} {and}
+  \bibinfo{person}{Andrew Zisserman}.} \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Very Deep Convolutional Networks for Large-Scale
+  Image Recognition}.
+\newblock  (\bibinfo{year}{2015}).
+\newblock
+\showeprint[arxiv]{cs.CV/1409.1556}
+
+
+\bibitem[\protect\citeauthoryear{Szegedy, Liu, Jia, Sermanet, Reed, Anguelov,
+  Erhan, Vanhoucke, and Rabinovich}{Szegedy et~al\mbox{.}}{2015}]%
+        {9}
+\bibfield{author}{\bibinfo{person}{Christian Szegedy}, \bibinfo{person}{Wei
+  Liu}, \bibinfo{person}{Yangqing Jia}, \bibinfo{person}{Pierre Sermanet},
+  \bibinfo{person}{Scott Reed}, \bibinfo{person}{Dragomir Anguelov},
+  \bibinfo{person}{Dumitru Erhan}, \bibinfo{person}{Vincent Vanhoucke}, {and}
+  \bibinfo{person}{Andrew Rabinovich}.} \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Going deeper with convolutions}.
+\newblock  (\bibinfo{year}{2015}), \bibinfo{pages}{1--9}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Vaswani, Shazeer, Parmar, Uszkoreit, Jones,
+  Gomez, Kaiser, and Polosukhin}{Vaswani et~al\mbox{.}}{2017}]%
+        {12}
+\bibfield{author}{\bibinfo{person}{Ashish Vaswani}, \bibinfo{person}{Noam
+  Shazeer}, \bibinfo{person}{Niki Parmar}, \bibinfo{person}{Jakob Uszkoreit},
+  \bibinfo{person}{Llion Jones}, \bibinfo{person}{Aidan~N Gomez},
+  \bibinfo{person}{Lukasz Kaiser}, {and} \bibinfo{person}{Illia Polosukhin}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Attention is all you need}.
+\newblock \bibinfo{journal}{\emph{Advances in neural information processing
+  systems}}  \bibinfo{volume}{30} (\bibinfo{year}{2017}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Vu, Hoang, Tan, Nguyen, Nguyen, Hoang, Phan,
+  Tran, Vu, Ngo, et~al\mbox{.}}{Vu et~al\mbox{.}}{2024}]%
+        {vu2024occlusion}
+\bibfield{author}{\bibinfo{person}{Van-Duc Vu}, \bibinfo{person}{Dinh-Dai
+  Hoang}, \bibinfo{person}{Phan~Xuan Tan}, \bibinfo{person}{Van-Thiep Nguyen},
+  \bibinfo{person}{Thu-Uyen Nguyen}, \bibinfo{person}{Ngoc-Anh Hoang},
+  \bibinfo{person}{Khanh-Toan Phan}, \bibinfo{person}{Duc-Thanh Tran},
+  \bibinfo{person}{Duy-Quang Vu}, \bibinfo{person}{Phuc-Quan Ngo},
+  {et~al\mbox{.}}} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Occlusion-Robust Pallet Pose Estimation for
+  Warehouse Automation}.
+\newblock \bibinfo{journal}{\emph{IEEE Access}} (\bibinfo{year}{2024}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Wood, Baltrusaitis, Hewitt, Dziadzio, Cashman,
+  and Shotton}{Wood et~al\mbox{.}}{2021}]%
+        {3}
+\bibfield{author}{\bibinfo{person}{Erroll Wood}, \bibinfo{person}{Tadas
+  Baltrusaitis}, \bibinfo{person}{Charlie Hewitt}, \bibinfo{person}{Sebastian
+  Dziadzio}, \bibinfo{person}{Thomas~J. Cashman}, {and} \bibinfo{person}{Jamie
+  Shotton}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Fake It Till You Make It: Face Analysis in the Wild
+  Using Synthetic Data Alone}.
+\newblock  (\bibinfo{date}{October} \bibinfo{year}{2021}),
+  \bibinfo{pages}{3681--3691}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Yaroslav~Ganin}{Yaroslav~Ganin}{2015}]%
+        {17}
+\bibfield{author}{\bibinfo{person}{Hana Ajakan Pascal Germain Hugo Larochelle
+  François Laviolette Mario Marchand Victor~Lempitsky Yaroslav~Ganin,
+  Evgeniya~Ustinova}.} \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Domain-Adversarial Training of Neural Networks}.
+\newblock  (\bibinfo{year}{2015}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Zheng, Harley, Shen, Wetzstein, and
+  Guibas}{Zheng et~al\mbox{.}}{2023}]%
+        {1}
+\bibfield{author}{\bibinfo{person}{Yang Zheng}, \bibinfo{person}{Adam~W.
+  Harley}, \bibinfo{person}{Bokui Shen}, \bibinfo{person}{Gordon Wetzstein},
+  {and} \bibinfo{person}{Leonidas~J. Guibas}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{PointOdyssey: A Large-Scale Synthetic Dataset for
+  Long-Term Point Tracking}.
+\newblock  (\bibinfo{date}{October} \bibinfo{year}{2023}),
+  \bibinfo{pages}{19855--19865}.
+\newblock
+
+
+\end{thebibliography}

@@ -1,0 +1,220 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: main.aux
+The style file: ACM-Reference-Format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: References.bib
+I was expecting a `,' or a `}'---line 134 of file References.bib
+ : 
+ : @Article{17,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 204 of file References.bib
+ : 
+ : @Article{26,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2725 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2725 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2725 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2725 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2725 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2725 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2725 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2725 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2725 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2725 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2725 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2725 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2725 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2725 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2725 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Mingsheng Long, Yue Cao, Jianmin Wang, Michael I. Jordan" for entry 18
+while executing---line 2725 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Mingsheng Long, Yue Cao, Jianmin Wang, Michael I. Jordan" for entry 18
+while executing---line 2725 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Mingsheng Long, Yue Cao, Jianmin Wang, Michael I. Jordan" for entry 18
+while executing---line 2725 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun" for entry 20
+while executing---line 2725 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun" for entry 20
+while executing---line 2725 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun" for entry 20
+while executing---line 2725 of file ACM-Reference-Format.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Too many commas in name 1 of "Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun" for entry 20
+while executing---line 2786 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun" for entry 20
+while executing---line 2786 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Mingsheng Long, Yue Cao, Jianmin Wang, Michael I. Jordan" for entry 18
+while executing---line 2786 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Mingsheng Long, Yue Cao, Jianmin Wang, Michael I. Jordan" for entry 18
+while executing---line 2786 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2786 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2786 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2786 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2786 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2786 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2786 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2786 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2786 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2786 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2786 of file ACM-Reference-Format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--no journal in 19
+Warning--no number and no volume in 19
+Warning--page numbers missing in both pages and numpages fields in 19
+Warning--no number and no volume in 24
+Warning--page numbers missing in both pages and numpages fields in 24
+Warning--no journal in 5
+Warning--no number and no volume in 15
+Warning--page numbers missing in both pages and numpages fields in 15
+Warning--no journal in 6
+Warning--no number and no volume in 6
+Warning--empty publisher in hoang2022context
+Warning--empty address in hoang2022context
+Warning--empty publisher in hoang2019object
+Warning--empty address in hoang2019object
+Warning--no journal in 16
+Warning--no number and no volume in 16
+Warning--page numbers missing in both pages and numpages fields in 16
+Too many commas in name 1 of "Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun" for entry 20
+while executing---line 2884 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun" for entry 20
+while executing---line 2884 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun" for entry 20
+while executing---line 2884 of file ACM-Reference-Format.bst
+Warning--no journal in 20
+Warning--no number and no volume in 20
+Warning--page numbers missing in both pages and numpages fields in 20
+Warning--page numbers missing in both pages and numpages fields in 7
+Too many commas in name 1 of "Mingsheng Long, Yue Cao, Jianmin Wang, Michael I. Jordan" for entry 18
+while executing---line 2884 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Mingsheng Long, Yue Cao, Jianmin Wang, Michael I. Jordan" for entry 18
+while executing---line 2884 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Mingsheng Long, Yue Cao, Jianmin Wang, Michael I. Jordan" for entry 18
+while executing---line 2884 of file ACM-Reference-Format.bst
+Warning--no journal in 18
+Warning--no number and no volume in 18
+Warning--page numbers missing in both pages and numpages fields in 18
+Warning--empty publisher in palleschi2020fully
+Warning--empty address in palleschi2020fully
+Warning--page numbers missing in both pages and numpages fields in 21
+Warning--no journal in 2
+Warning--no number and no volume in 2
+Warning--no journal in 8
+Warning--no number and no volume in 8
+Warning--page numbers missing in both pages and numpages fields in 8
+Warning--no journal in 9
+Warning--no number and no volume in 9
+Warning--page numbers missing in both pages and numpages fields in 12
+Warning--no number and no volume in vu2024occlusion
+Warning--page numbers missing in both pages and numpages fields in vu2024occlusion
+Warning--no journal in 3
+Warning--no number and no volume in 3
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2884 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2884 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2884 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2884 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2884 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2884 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2884 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2884 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2884 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2884 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2884 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2884 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2884 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2884 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky" for entry 17
+while executing---line 2884 of file ACM-Reference-Format.bst
+Warning--no journal in 17
+Warning--no number and no volume in 17
+Warning--page numbers missing in both pages and numpages fields in 17
+Warning--no journal in 1
+Warning--no number and no volume in 1
+You've used 32 entries,
+            5733 wiz_defined-function locations,
+            1453 strings with 20921 characters,
+and the built_in function-call counts, 39125 in all, are:
+= -- 4923
+> -- 1758
+< -- 0
++ -- 587
+- -- 580
+* -- 3035
+:= -- 4155
+add.period$ -- 160
+call.type$ -- 32
+change.case$ -- 262
+chr.to.int$ -- 31
+cite$ -- 76
+duplicate$ -- 3187
+empty$ -- 2271
+format.name$ -- 687
+if$ -- 9475
+int.to.chr$ -- 3
+int.to.str$ -- 1
+missing$ -- 131
+newline$ -- 297
+num.names$ -- 255
+pop$ -- 1251
+preamble$ -- 1
+purify$ -- 547
+quote$ -- 0
+skip$ -- 1028
+stack$ -- 0
+substring$ -- 2696
+swap$ -- 319
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 551
+warning$ -- 44
+while$ -- 208
+width$ -- 0
+write$ -- 574
+(There were 58 error messages)
